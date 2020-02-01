@@ -1,2 +1,2 @@
-# tic-tac-toe
-Command-line Tic-Tac-Toe
+# Tic Tac Toe: Command Line Style!
+Written in Java
